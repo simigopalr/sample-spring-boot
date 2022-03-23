@@ -11,7 +11,7 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/sample-app*/*
+    - target/sample-spring-boot*/*
   discard-paths: yes
 
 cache:
